@@ -27,6 +27,16 @@ int main() {
 
     // Sugestão: Implemente a movimentação do Cavalo utilizando loops com variáveis múltiplas e condições avançadas.
     // Inclua o uso de continue e break dentro dos loops.
-    prinf("Hello World")
+    printf("====================\n");
+    printf("     Xadrez\n");
+    printf("====================\n");
+    printf("Rainha move 8 casa pra a esquerda\n");
+    int x = 1;
+    while (x != 9) {
+        printf("Esquerda {%d}\n", x);
+        x++;
+    }
+    printf("\n");
+    printf("buceta terminada");
     return 0;
 }
